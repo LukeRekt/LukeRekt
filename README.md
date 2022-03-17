@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React
 
 
-<img src="img.gif" width="200" height="400" />
+<img src="img.gif" width="400" height="400" />
