@@ -2,4 +2,5 @@
 
 - 🌱 I’m currently learning React
 
-![alt text](img.gif | width=100)
+
+<img src="img.gif" width="200" height="400" />
