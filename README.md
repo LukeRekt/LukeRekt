@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
-- 📫 Feel free to reach me out **lucasrsl12@gmail.com**
+- 📫 Feel free to reach me out **lucas@lucascodes.com.br**
 
 <!--Intro end-->
 
