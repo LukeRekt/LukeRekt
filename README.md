@@ -47,7 +47,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="[https://github-readme-stats.vercel.app/api?username=lukerekt&theme=dark&show_icons=true&count_private=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeRekt&theme=github_dark&hide_border=true)](https://github.com/LukeRekt)" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lukerekt&theme=dark&show_icons=true&count_private=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeRekt&theme=github_dark&hide_border=true)](https://github.com/LukeRekt)" />
   <br></br>
 </td>
 
