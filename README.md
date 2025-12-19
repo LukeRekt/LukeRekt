@@ -41,23 +41,18 @@
 
 
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lukerekt&theme=dark&show_icons=true&count_private=true](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeRekt&theme=github_dark&hide_border=true)](https://github.com/LukeRekt)" />
-  <br></br>
-</td>
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
 
-<td width="50%" align="center">
+<a href="https://github.com/LukeRekt/LukeRekt">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeRekt&theme=github_dark&hide_border=true)](https://github.com/LukeRekt" alt="Lucas's GitHub Stats Graph"/>
+</a>
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LukeRekt&show_icons=true&theme=github_dark&show_icons=true&layout=compact&hide_rank=false" alt="LukeRekt"  />
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeRekt&layout=compact&theme=github_dark&show_icons=true" alt="LukeRekt" />
+</div>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lukerekt&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
