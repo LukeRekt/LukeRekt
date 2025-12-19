@@ -42,14 +42,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeRekt&layout=compact&theme=github_dark&show_icons=true" alt="LukeRekt" />
 </div>
 
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lukerekt&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 </p>        
 <div id="user-content-toc">
   <ul align="center">
