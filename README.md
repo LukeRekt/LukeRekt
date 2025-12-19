@@ -28,7 +28,7 @@
 
 <!--- stats & Trophy (start) -->
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github Stat.</h2>
+<h2 align="center" style="margin: 5px 10px;">Github Stats.</h2>
 
 <a href="https://github.com/LukeRekt/LukeRekt">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeRekt&theme=github_dark&hide_border=true)](https://github.com/LukeRekt" alt="Lucas's GitHub Stats Graph"/>
